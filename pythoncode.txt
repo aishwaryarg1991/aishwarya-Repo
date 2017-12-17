@@ -6,3 +6,4 @@ whats up branch1
 this is master change.
 this is master change 2
 this is branch2.
+adding to resolve issue 3.
